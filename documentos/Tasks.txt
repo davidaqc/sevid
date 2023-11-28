@@ -1,0 +1,60 @@
+** Semana 1-5
+- Documentación de requerimientos
+- Documentación de plan de proyecto
+- Documentación de diseño
+
+** Semana 6
+- Realizar pruebas del sistema previo en el computador
+- Documentación de informe #1
+
+** Semana 7 y 8
+- Uso del API de Google (CloudAPI)
+	- Procesamiento de imagen
+	- Almacenamiento de los resultados
+	- Obtención de resultados (archivo de texto)
+- Inicio de la aplicación web.
+	- Instalación de Angular y paquetes necesarios
+	- Creación de la vista principal y el menú
+- Implementación en el Sistema Empotrado
+	- Instalación del sistema Raspbian en la Raspberry Pi Zero
+	- Instalación de Python y bibliotecas necesarias
+	- Pruebas del funcionamiento de la camara
+	- Pruebas del funcionamiento del modulo de wifi/ethernet
+
+** Semana 9 y 10
+- Continuación del sistema en el Sistema Empotrado
+	- Captura de imagen
+	- Validación de datos
+	- Comunicación con API externa (Cloud Api)
+- Continuacion de la aplicación web
+	- Creación de la vista para tomar la fotografía
+	- Creación de los servicios para utilizar SEVID
+	- Pruebas con una API falsa
+- Inicio del API
+	- Endpoints
+	- Metodos HTTP
+	- Formato de datos
+	- Autenticacion
+	- Pruebas con Postman
+
+** Semana 11 y 12
+- Finalizacion del API	
+	- Desarrollo de las rutas
+- Finalizacion del AppWeb
+	- Creación de la vista para generar datos
+	- Creación de la vista para visualizar datos
+	- Desarrollo de los servicios	
+- Integración de los sistemas
+
+** Semana 13 y 14
+- Optimizar el sistema
+- Creación interfaz física
+	- Inicializar automáticamente el api al cargar el S0
+	- LED1: Sistema en ejecución. LED2: Procesando información. LED3: Datos validos
+	- BTN1: Tomar fotografía. BTN2: Generar datos. BTN3: Validar Datos
+
+** Semana 15 y 16
+- Creación del manual de usuario
+- Creación del documento de instalación
+- Creación  del Articulo Técnico
+

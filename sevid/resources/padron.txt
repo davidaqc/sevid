@@ -1,0 +1,11 @@
+101019387,101026, ,20230416,00000,CLAUDIA MANUELA               ,ESPINOZA                  ,FONSECA                                                     
+205630472,201003, ,20280924,00000,JACQUELINE VANESSA            ,BRENES                    ,TORRES                                     
+304450381,301007, ,20261019,00000,JOSE ALBERTO                  ,RODRIGUEZ                 ,PIEDRA                    
+304450382,301009, ,20290109,00000,MARIA ELIZABETH               ,QUESADA                   ,CALDERON                  
+304450383,301018, ,20320825,00000,WALTER EDUARDO                ,ALVARADO                  ,SOLANO                    
+304960827,301009, ,20280515,00000,DAVID ANTONIO                 ,QUESADA                   ,CALDERON                  
+304960828,301011, ,20300219,00000,CARLOS ADRIAN                 ,PICADO                    ,PIEDRA                    
+702350982,702010, ,20321212,00000,ALBERLIN MAILETH              ,ARGUELLO                  ,ALEMAN                    
+702350983,702010, ,20321206,00000,PABLO ANDRES                  ,AZOFEIFA                  ,GONZALEZ                  
+801170064,101016, ,20280803,00000,MARBEL JUNIESKY               ,VELASQUEZ                 ,BONE                      
+801170065,103002, ,20301214,00000,SAUL ALBERTO                  ,HERNANDEZ                 ,RODRIGUEZ                                
