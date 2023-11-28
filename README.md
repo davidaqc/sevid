@@ -15,11 +15,11 @@ El modo de uso del sistema es mediante una aplicación web, donde el usuario pue
 
 ## Herramientas utilizadas
 
--	  Angular
--	  Bootstrap
 -   Python
 -   Flask
 -   Google Cloud
+-   Angular
+-   Bootstrap
 
 ## Instalación
 
