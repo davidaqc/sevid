@@ -10,14 +10,16 @@ El módulo de captura de imágenes utiliza una cámara integrada en la Raspberry
 
 El modo de uso del sistema es mediante una aplicación web, donde el usuario puede cargar la imagen del documento de identidad y/o fotografiar el documento de identidad y así recibir una respuesta en tiempo real sobre la autenticidad del mismo. El sistema mostrará en pantalla si el documento escaneado coincide o no con ninguno de los documentos auténticos almacenados en la base de datos.
 
-[Diagrama de bloques]()
+[Diagrama de bloques](https://github.com/davidaqc/embsys_sevid/blob/main/documentos/Diagrama%20de%20bloques.png)
 
 
 ## Herramientas utilizadas
 
--	Angular
+-	  Angular
+-	  Bootstrap
 -   Python
 -   Flask
+-   Google Cloud
 
 ## Instalación
 
